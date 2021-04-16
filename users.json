@@ -1,0 +1,1 @@
+[{"id":1,"firstName":"testName","lastName":"testSecondName","email":"TestMail","confirmationCode":"test_confirm_code","password":"test_password","active":"pending"},{"id":2,"firstName":"Simon","lastName":"Burghardt","email":"joe.testn@gmail.com","confirmationCode":"f4673c31-18cf-4391-93a0-0d792acc79de","password":"sem","active":"pending"}]
